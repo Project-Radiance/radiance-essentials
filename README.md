@@ -1,4 +1,4 @@
-# Crystalied Essentials
+# Radiance Essentials
 This plugins handles custom items and other things shared around multiple servers<br>
 
 # Functionality
