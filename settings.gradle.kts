@@ -1,2 +1,2 @@
-rootProject.name = "crystalizedessentials"
+rootProject.name = "radianceessentials"
 
